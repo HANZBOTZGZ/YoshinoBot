@@ -1,22 +1,22 @@
 {
-  "ownerNumber": "6281575886399@s.whatsapp.net",
-  "pairingNumber": "masukin nomer yang ingin dijadikan bot",
+  "ownerNumber": "62882151107879@s.whatsapp.net,62888227515514.whatsapp.net",
+  "pairingNumber": "6285640285529",
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "NCIPSS BOTZ",
   "packname": "follow",
-  "author": "@riycoders",
+  "author": "@ncipsmod",
   "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "xcode": "ambil apikey disini : https://api.xcodeteam.xyz"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
+    "yt": "https://youtube.com/@ncennofc",
+    "ig": "https://instagram.com/@ncenn.hjrh",
     "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
   },
   "donasi": {
-	"dana": "081575886399",
-	"gopay": "081575886399"
+	"dana": "088227515514",
+	"gopay": "088227515514"
   },
   "gamewaktu": 90,
   "limitCount": 25,
